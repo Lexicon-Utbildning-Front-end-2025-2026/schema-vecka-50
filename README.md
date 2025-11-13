@@ -1,11 +1,10 @@
 # 📅 Schema vecka 50
 
 ## 🎯 Mål för veckan
-1.  blah
-2.  blah
-3.  blah
-4.  blah
-5.  blah
+1.  Skriva bra CSS, och förstå The Box Model.
+2.  Flexbox
+3.  CSS Grid
+
 
 ## 📅 Måndag
 
