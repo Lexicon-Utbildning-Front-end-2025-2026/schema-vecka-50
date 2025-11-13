@@ -1,4 +1,4 @@
-# 📅 Schema vecka 48
+# 📅 Schema vecka 50
 
 ## 🎯 Mål för veckan
 1.  blah
