@@ -1,12 +1,9 @@
 # 📅 Schema vecka 50
 
-## 🎯 Mål för veckan
-1.  Skriva bra CSS, och förstå The Box Model.
-2.  Flexbox
-3.  CSS Grid
-
-
 ## 📅 Måndag
+
+### Mål för dagen:
+Skriva bra CSS, och förstå The Box Model.
 
 ### E‑Learning
 * [(YT - Kevin Powell) Write better CSS using logical properties](https://www.youtube.com/watch?v=kzvmaVik4mA)
@@ -23,6 +20,9 @@
 
 ## 📅 Tisdag
 
+### Mål för dagen:
+Lära sig använda Flexbox.
+
 ### E‑Learning
 * [(YT - Kevin Powell) Learn flexbox the easy way](https://www.youtube.com/watch?v=u044iM9xsWU)
 
@@ -32,6 +32,9 @@
 * [(MDN) Test your skills: Flexbox](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Test_your_skills/Flexbox)
 
 ## 📅 Onsdag
+
+### Mål för dagen:
+Lära sig använda CSS Grid.
 
 ### E‑Learning
 * [(YT - Kevin Powell) Get started with grid WITHOUT being overwhelmed](https://www.youtube.com/watch?v=8QSqwbSztnA)
@@ -48,6 +51,9 @@
 
 ## 📅 Torsdag
 
+### Mål för dagen:
+Fortsätta med CSS Grid, och använda Container och Wrapper Classes. 
+
 ### E‑Learning
 * [(YT - Kevin Powell) Easy and more consistent layouts using subgrid](https://www.youtube.com/watch?v=IIQa9f0REtM)
 
@@ -56,6 +62,9 @@
 * [(YT - Kevin Powell) CSS Grid Alignment & Justification Without the Guesswork](https://www.youtube.com/watch?v=WvoYYok1Ddo)
 
 ## 📅 Fredag
+
+### Mål för dagen:
+Lära sig förstå när man ska använda FLexbox alt CSS Grid.
 
 ### E‑Learning
 * [(YT - Kevin Powell) Flexbox or grid - How to decide?](https://www.youtube.com/watch?v=3elGSZSWTbM)
