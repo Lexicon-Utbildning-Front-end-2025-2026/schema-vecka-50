@@ -12,10 +12,9 @@
 
 ### Läsning
 * [(MDN) The box model](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Box_model)
-* [(MDN) Structuring content with HTML](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content)
 
 ### Övningar
-* [(MDN) Test your skills: Positioning](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Test_your_skills/Position)
+* Frivilligt - Position i CSS (Vi kommer inte gå in på det så mycket, men det kan vara intressant att titta på om man inte gjort det innan) [(MDN) Test your skills: Positioning](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Test_your_skills/Position)
 
 
 ## 📅 Tisdag
