@@ -18,7 +18,6 @@
 ### Övningar
 * [(MDN - Test your skills: The box model)](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Test_your_skills/Box_model)
 * [(MDN) - Test your skills: Sizing](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Test_your_skills/Sizing)
-* Frivilligt - Position i CSS (Vi kommer inte gå in på det så mycket, men det kan vara intressant att titta på om man inte gjort det innan) [(MDN) Test your skills: Positioning](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Test_your_skills/Position)
 
 ---
 
