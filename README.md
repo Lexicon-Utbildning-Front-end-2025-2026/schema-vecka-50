@@ -61,7 +61,6 @@ Behärska mer avancerade tekniker med CSS Grid
 ### E‑Learning
 * [(YT - Kevin Powell) Easy and more consistent layouts using subgrid](https://www.youtube.com/watch?v=IIQa9f0REtM)
 * [(YT - Kevin Powell) A new approach to container and wrapper classes](https://www.youtube.com/watch?v=c13gpBrnGEw)
-* [(YT - Kevin Powell) CSS Grid Alignment & Justification Without the Guesswork](https://www.youtube.com/watch?v=WvoYYok1Ddo)
 
 ---
 
