@@ -8,7 +8,6 @@
 
 ### E‑Learning
 * [(YT - Kevin Powell) Write better CSS using logical properties](https://www.youtube.com/watch?v=kzvmaVik4mA)
-
 * [(YT - Kevin Powell) HTML & CSS for Absolute Beginners: The box model - width, height, inline-size, block-size](https://www.youtube.com/watch?v=D_akuQHIPtg&list=PL4-IK0AVhVjOJs_UjdQeyEZ_cmEV3uJvx&index=31)
 
 ### Läsning
@@ -26,7 +25,6 @@ Lära sig använda Flexbox.
 
 ### E‑Learning
 * [(YT - Kevin Powell) Learn flexbox the easy way](https://www.youtube.com/watch?v=u044iM9xsWU)
-
 * [(YT - Kevin Powell) Flexbox Alignment & Justification Without the Guesswork](https://www.youtube.com/watch?v=uIzaU98Ak1k)
 
 ### Övningar
@@ -39,9 +37,7 @@ Lära sig använda CSS Grid.
 
 ### E‑Learning
 * [(YT - Kevin Powell) Get started with grid WITHOUT being overwhelmed](https://www.youtube.com/watch?v=8QSqwbSztnA)
-
 * [(YT - Kevin Powell) The EASIEST way to get started with CSS GRID](https://www.youtube.com/watch?v=_lEkD8IGkwo)
-
 * [(YT - Kevin Powell) CSS Grid Alignment & Justification Without the Guesswork](https://www.youtube.com/watch?v=WvoYYok1Ddo)
   
 ### Läsning
@@ -57,9 +53,7 @@ Fortsätta med CSS Grid, och använda Container och Wrapper Classes.
 
 ### E‑Learning
 * [(YT - Kevin Powell) Easy and more consistent layouts using subgrid](https://www.youtube.com/watch?v=IIQa9f0REtM)
-
 * [(YT - Kevin Powell) A new approach to container and wrapper classes](https://www.youtube.com/watch?v=c13gpBrnGEw)
-
 * [(YT - Kevin Powell) CSS Grid Alignment & Justification Without the Guesswork](https://www.youtube.com/watch?v=WvoYYok1Ddo)
 
 ## 📅 Fredag
