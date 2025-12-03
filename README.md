@@ -34,6 +34,7 @@ Kunna använda Flexbox.
 * [(MDN) Test your skills: Flexbox](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Test_your_skills/Flexbox)
 * Inför fredag - Lägg till en meny högst upp på sidan som innehåller en Logo (text eller bild), några länkar ("Om oss", "Kontakt" eller vad ni vill), en logga in-knapp. Gör menyn med flex. Menyn ska ha layouten:
 |__LOGO_______Recept__Om oss__Kontakt______Logga in__|
+* Extra om ni vill och hinner inför fredag - [Gör en skip link på er receptsida](https://www.accede-web.com/en/guidelines/html-css/keyboard-navigation/skip-links/)
 
 ---
 
@@ -66,7 +67,8 @@ Behärska mer avancerade tekniker med CSS Grid
 * [(YT - Kevin Powell) A new approach to container and wrapper classes](https://www.youtube.com/watch?v=c13gpBrnGEw)
 
 ### Övningar
-* Inför fredag - [Gör en skip link på er receptsida](https://www.accede-web.com/en/guidelines/html-css/keyboard-navigation/skip-links/)
+* [(MDN) Challenge: Fundamental layout comprehension](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Fundamental_Layout_Comprehension)
+* Inför fredag (frivilligt) - Implementera antingen subgrid eller Powells container från klippet ovan. 
 ---
 
 ## 📅 Fredag
@@ -79,6 +81,5 @@ Fördjupa förståelsen av veckans begrepp genom att prata kod.
 
 ### Övningar
 * Code review - Receptsidan med meny, skip-link, startsida med olika receptkort i grid
-* [(MDN) Challenge: Fundamental layout comprehension](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Fundamental_Layout_Comprehension)
-
+* Efter review - fixa i ordning din kod utifrån feedback och inspiration från de andra
   
