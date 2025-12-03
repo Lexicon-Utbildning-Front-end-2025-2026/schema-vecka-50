@@ -52,7 +52,7 @@ Kunna använda CSS Grid.
 
 ### Övningar
 * [(MDN) Test your skills: CSS grids](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Test_your_skills/Grid)
-* Inför fredag - Skapa en ny sida till receptsidan med en lista av olika recept presenterade i en grid. Dessa ska sen länka vidare till receptsidorna (ni behöver inte göra fler receptsidor utan ni kan länka enbart till den ni har redan)
+* Inför fredag - Skapa en ny sida till receptsidan med en lista av olika kort med länkar till recept presenterade i en grid. Gör som små kort med en bild, namn på recept och kanske något mer bara. Dessa ska sen länka vidare till receptsidorna (ni behöver inte göra fler receptsidor utan ni kan länka enbart till den ni har redan)
 
 ---
 
