@@ -11,6 +11,7 @@ Skriva bra CSS, och förstå The Box Model.
 * [(YT - Kevin Powell) HTML & CSS for Absolute Beginners: The box model - width, height, inline-size, block-size](https://www.youtube.com/watch?v=D_akuQHIPtg&list=PL4-IK0AVhVjOJs_UjdQeyEZ_cmEV3uJvx&index=31)
 
 ### Läsning
+* [(MDN) The box model](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Box_model)
 * [(MDN) Structuring content with HTML](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content)
 
 ### Övningar
