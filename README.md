@@ -7,8 +7,8 @@
 * Kunna använda inline och block för både element och för margin/padding
 
 ### E‑Learning
-* [(YT - Kevin Powell) Write better CSS using logical properties](https://www.youtube.com/watch?v=kzvmaVik4mA)
 * [(YT - Kevin Powell) HTML & CSS for Absolute Beginners: The box model - width, height, inline-size, block-size](https://www.youtube.com/watch?v=D_akuQHIPtg&list=PL4-IK0AVhVjOJs_UjdQeyEZ_cmEV3uJvx&index=31)
+* [(YT - Kevin Powell) Write better CSS using logical properties](https://www.youtube.com/watch?v=kzvmaVik4mA)
 
 ### Läsning
 * [(MDN) - The box model](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Box_model)
@@ -23,7 +23,7 @@
 ## 📅 Tisdag
 
 ### Mål för dagen:
-Lära sig använda Flexbox.
+Kunna använda Flexbox.
 
 ### E‑Learning
 * [(YT - Kevin Powell) Learn flexbox the easy way](https://www.youtube.com/watch?v=u044iM9xsWU)
@@ -37,7 +37,7 @@ Lära sig använda Flexbox.
 ## 📅 Onsdag
 
 ### Mål för dagen:
-Lära sig använda CSS Grid.
+Kunna använda CSS Grid.
 
 ### E‑Learning
 * [(YT - Kevin Powell) Get started with grid WITHOUT being overwhelmed](https://www.youtube.com/watch?v=8QSqwbSztnA)
@@ -45,7 +45,7 @@ Lära sig använda CSS Grid.
 * [(YT - Kevin Powell) CSS Grid Alignment & Justification Without the Guesswork](https://www.youtube.com/watch?v=WvoYYok1Ddo)
   
 ### Läsning
-* [(CSS_TRICKS) CSS Grid Layout Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
+* [(CSS tricks) CSS Grid Layout Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 ### Övningar
 * [(MDN) Test your skills: CSS grids](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Test_your_skills/Grid)
@@ -55,7 +55,7 @@ Lära sig använda CSS Grid.
 ## 📅 Torsdag
 
 ### Mål för dagen:
-Fortsätta med CSS Grid, och använda Container och Wrapper Classes. 
+Behärska mer avancerade tekniker med CSS Grid
 
 ### E‑Learning
 * [(YT - Kevin Powell) Easy and more consistent layouts using subgrid](https://www.youtube.com/watch?v=IIQa9f0REtM)
@@ -67,11 +67,13 @@ Fortsätta med CSS Grid, och använda Container och Wrapper Classes.
 ## 📅 Fredag
 
 ### Mål för dagen:
-Lära sig förstå när man ska använda FLexbox alt CSS Grid.
+Fördjupa förståelsen av veckans begrepp genom att prata kod.
 
 ### E‑Learning
 * [(YT - Kevin Powell) Flexbox or grid - How to decide?](https://www.youtube.com/watch?v=3elGSZSWTbM)
 
 ### Övningar
+* Code review - ?
 * [(MDN) Challenge: Fundamental layout comprehension](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Fundamental_Layout_Comprehension)
+
   
