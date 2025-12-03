@@ -2,7 +2,7 @@
 
 ## 📅 Måndag
 
-### Mål för dagen:
+### Mål för dagen
 * Förstå "The Box Model" och hur den påverkar det mesta vi gör i CSS.
 * Kunna använda inline och block för både element och för margin/padding
 
@@ -23,7 +23,7 @@
 
 ## 📅 Tisdag
 
-### Mål för dagen:
+### Mål för dagen
 Kunna använda Flexbox.
 
 ### E‑Learning
@@ -37,7 +37,7 @@ Kunna använda Flexbox.
 
 ## 📅 Onsdag
 
-### Mål för dagen:
+### Mål för dagen
 Kunna använda CSS Grid.
 
 ### E‑Learning
@@ -55,7 +55,7 @@ Kunna använda CSS Grid.
 
 ## 📅 Torsdag
 
-### Mål för dagen:
+### Mål för dagen
 Behärska mer avancerade tekniker med CSS Grid
 
 ### E‑Learning
@@ -66,7 +66,7 @@ Behärska mer avancerade tekniker med CSS Grid
 
 ## 📅 Fredag
 
-### Mål för dagen:
+### Mål för dagen
 Fördjupa förståelsen av veckans begrepp genom att prata kod.
 
 ### E‑Learning
