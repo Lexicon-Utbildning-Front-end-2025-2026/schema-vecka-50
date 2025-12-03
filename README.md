@@ -32,7 +32,8 @@ Kunna använda Flexbox.
 
 ### Övningar
 * [(MDN) Test your skills: Flexbox](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Test_your_skills/Flexbox)
-* Inför fredag - Lägg till en meny högst upp på sidan som innehåller en Logo (text eller bild), några länkar ("Om oss", "Kontakt" eller vad ni vill), en logga in-knapp. Gör menyn med flex. Menyn ska ha layouten - | LOGO       Recept   Om oss  Kontakt      Logga in  |
+* Inför fredag - Lägg till en meny högst upp på sidan som innehåller en Logo (text eller bild), några länkar ("Om oss", "Kontakt" eller vad ni vill), en logga in-knapp. Gör menyn med flex. Menyn ska ha layouten:
+|__LOGO_______Recept__Om oss__Kontakt______Logga in__|
 
 ---
 
