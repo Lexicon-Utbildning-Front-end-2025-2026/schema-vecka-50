@@ -3,7 +3,8 @@
 ## 📅 Måndag
 
 ### Mål för dagen:
-Skriva bra CSS, och förstå The Box Model.
+* Förstå "The Box Model" och hur den påverkar det mesta vi gör i CSS.
+* Kunna använda inline och block för både element och för margin/padding
 
 ### E‑Learning
 * [(YT - Kevin Powell) Write better CSS using logical properties](https://www.youtube.com/watch?v=kzvmaVik4mA)
@@ -17,7 +18,6 @@ Skriva bra CSS, och förstå The Box Model.
 ### Övningar
 * [(MDN) Test your skills: Positioning](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Test_your_skills/Position)
 
-* Utveckla receptsidan med meny och lite fler recept.
 
 ## 📅 Tisdag
 
