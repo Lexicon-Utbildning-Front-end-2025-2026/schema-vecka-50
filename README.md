@@ -78,7 +78,7 @@ Fördjupa förståelsen av veckans begrepp genom att prata kod.
 * [(YT - Kevin Powell) Flexbox or grid - How to decide?](https://www.youtube.com/watch?v=3elGSZSWTbM)
 
 ### Övningar
-* Code review - ?
+* Code review - Receptsidan med meny, skip-link, startsida med olika receptkort i grid
 * [(MDN) Challenge: Fundamental layout comprehension](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Fundamental_Layout_Comprehension)
 
   
