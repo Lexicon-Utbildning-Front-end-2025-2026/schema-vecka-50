@@ -14,8 +14,10 @@
 * [(MDN) The box model](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Box_model)
 
 ### Övningar
+* [(MDN - Test your skills: The box model)](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Test_your_skills/Box_model)
 * Frivilligt - Position i CSS (Vi kommer inte gå in på det så mycket, men det kan vara intressant att titta på om man inte gjort det innan) [(MDN) Test your skills: Positioning](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Test_your_skills/Position)
 
+---
 
 ## 📅 Tisdag
 
@@ -28,6 +30,8 @@ Lära sig använda Flexbox.
 
 ### Övningar
 * [(MDN) Test your skills: Flexbox](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Test_your_skills/Flexbox)
+
+---
 
 ## 📅 Onsdag
 
@@ -45,6 +49,8 @@ Lära sig använda CSS Grid.
 ### Övningar
 * [(MDN) Test your skills: CSS grids](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Test_your_skills/Grid)
 
+---
+
 ## 📅 Torsdag
 
 ### Mål för dagen:
@@ -54,6 +60,8 @@ Fortsätta med CSS Grid, och använda Container och Wrapper Classes.
 * [(YT - Kevin Powell) Easy and more consistent layouts using subgrid](https://www.youtube.com/watch?v=IIQa9f0REtM)
 * [(YT - Kevin Powell) A new approach to container and wrapper classes](https://www.youtube.com/watch?v=c13gpBrnGEw)
 * [(YT - Kevin Powell) CSS Grid Alignment & Justification Without the Guesswork](https://www.youtube.com/watch?v=WvoYYok1Ddo)
+
+---
 
 ## 📅 Fredag
 
