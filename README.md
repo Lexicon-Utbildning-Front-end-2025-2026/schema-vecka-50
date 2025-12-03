@@ -32,6 +32,7 @@ Kunna använda Flexbox.
 
 ### Övningar
 * [(MDN) Test your skills: Flexbox](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Test_your_skills/Flexbox)
+* Inför fredag - Lägg till en meny högst upp på sidan som innehåller en Logo (text eller bild), några länkar ("Om oss", "Kontakt" eller vad ni vill), en logga in-knapp. Gör menyn med flex. Menyn ska ha layouten - | LOGO       Recept   Om oss  Kontakt      Logga in  |
 
 ---
 
@@ -50,6 +51,7 @@ Kunna använda CSS Grid.
 
 ### Övningar
 * [(MDN) Test your skills: CSS grids](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Test_your_skills/Grid)
+* Inför fredag - Skapa en ny sida till receptsidan med en lista av olika recept presenterade i en grid. Dessa ska sen länka vidare till receptsidorna (ni behöver inte göra fler receptsidor utan ni kan länka enbart till den ni har redan)
 
 ---
 
@@ -62,6 +64,8 @@ Behärska mer avancerade tekniker med CSS Grid
 * [(YT - Kevin Powell) Easy and more consistent layouts using subgrid](https://www.youtube.com/watch?v=IIQa9f0REtM)
 * [(YT - Kevin Powell) A new approach to container and wrapper classes](https://www.youtube.com/watch?v=c13gpBrnGEw)
 
+### Övningar
+* Inför fredag - [Gör en skip link på er receptsida](https://www.accede-web.com/en/guidelines/html-css/keyboard-navigation/skip-links/)
 ---
 
 ## 📅 Fredag
