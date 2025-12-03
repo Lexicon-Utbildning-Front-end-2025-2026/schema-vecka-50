@@ -12,6 +12,8 @@
 
 ### Läsning
 * [(MDN) - The box model](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Box_model)
+* [(MDN) - Logical properties for margins, borders, and padding](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Logical_properties_and_values/Margins_borders_padding)
+* Extra om man vill läsa mer om logical properties [(MDN) - Basic concepts of logical properties and values](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Logical_properties_and_values/Basic_concepts)
 
 ### Övningar
 * [(MDN - Test your skills: The box model)](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Test_your_skills/Box_model)
