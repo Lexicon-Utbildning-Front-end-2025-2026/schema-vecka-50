@@ -47,6 +47,7 @@ Kunna använda CSS Grid.
 * [(YT - Kevin Powell) Get started with grid WITHOUT being overwhelmed](https://www.youtube.com/watch?v=8QSqwbSztnA)
 * [(YT - Kevin Powell) The EASIEST way to get started with CSS GRID](https://www.youtube.com/watch?v=_lEkD8IGkwo)
 * [(YT - Kevin Powell) CSS Grid Alignment & Justification Without the Guesswork](https://www.youtube.com/watch?v=WvoYYok1Ddo)
+* [(YT - Kevin Powell) The magic auto-fit and auto-fill (and the difference between them)](https://www.youtube.com/watch?v=OZ6qKoq7RJU)
   
 ### Läsning
 * [(CSS tricks) CSS Grid Layout Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
