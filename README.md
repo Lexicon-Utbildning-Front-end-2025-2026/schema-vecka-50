@@ -16,7 +16,7 @@
 * Extra om man vill läsa mer om logical properties [(MDN) - Basic concepts of logical properties and values](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Logical_properties_and_values/Basic_concepts)
 
 ### Övningar
-* [(MDN - Test your skills: The box model)](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Test_your_skills/Box_model)
+* [(MDN) - Test your skills: The box model](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Test_your_skills/Box_model)
 * [(MDN) - Test your skills: Sizing](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Test_your_skills/Sizing)
 
 ---
