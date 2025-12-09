@@ -68,16 +68,18 @@ Kunna använda CSS Grid samt positionera saker inuti den på olika sätt.
 ## 📅 Torsdag
 
 ### Mål för dagen
-Behärska mer avancerade tekniker med CSS Grid
+* Repetera veckans mål
+* Överkurs för de som vill - Behärska mer avancerade tekniker med CSS Grid
 
 ### E‑Learning
-* [(YT - Kevin Powell) Easy and more consistent layouts using subgrid](https://www.youtube.com/watch?v=IIQa9f0REtM)
-* [(YT - Kevin Powell) A new approach to container and wrapper classes](https://www.youtube.com/watch?v=c13gpBrnGEw)
 * [(YT - Kevin Powell) Flexbox or grid - How to decide?](https://www.youtube.com/watch?v=3elGSZSWTbM)
+* Överkurs för de som vill - [(YT - Kevin Powell) Easy and more consistent layouts using subgrid](https://www.youtube.com/watch?v=IIQa9f0REtM)
+* Överkurs för de som vill - [(YT - Kevin Powell) A new approach to container and wrapper classes](https://www.youtube.com/watch?v=c13gpBrnGEw)
+
 
 ### Övningar
 * [(MDN) Challenge: Fundamental layout comprehension](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Fundamental_Layout_Comprehension)
-* Inför fredag (frivilligt) - Implementera antingen subgrid eller Powells container från klippet ovan. 
+* Överkurs för de som vill - Inför fredag - Implementera antingen subgrid eller Powells container från klippet ovan. 
 ---
 
 ## 📅 Fredag
