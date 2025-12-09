@@ -26,6 +26,9 @@
 ### Mål för dagen
 Kunna använda Flexbox.
 
+### Läsning
+* [(CSS-Tricks) CSS Flexbox Layout Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
 ### E‑Learning
 * [(YT - Kevin Powell) Learn flexbox the easy way](https://www.youtube.com/watch?v=u044iM9xsWU)
 * [(YT - Kevin Powell) Flexbox Alignment & Justification Without the Guesswork](https://www.youtube.com/watch?v=uIzaU98Ak1k)
