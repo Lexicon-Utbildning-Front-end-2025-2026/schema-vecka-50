@@ -54,6 +54,7 @@ Kunna använda CSS Grid.
   
 ### Läsning
 * [(CSS tricks) CSS Grid Layout Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
+* [CSS grid layout](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Grids)
 
 ### Övningar
 * [(MDN) Test your skills: CSS grids](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Test_your_skills/Grid)
