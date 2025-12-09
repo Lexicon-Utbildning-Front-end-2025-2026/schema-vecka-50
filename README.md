@@ -70,6 +70,7 @@ Behärska mer avancerade tekniker med CSS Grid
 ### E‑Learning
 * [(YT - Kevin Powell) Easy and more consistent layouts using subgrid](https://www.youtube.com/watch?v=IIQa9f0REtM)
 * [(YT - Kevin Powell) A new approach to container and wrapper classes](https://www.youtube.com/watch?v=c13gpBrnGEw)
+* [(YT - Kevin Powell) Flexbox or grid - How to decide?](https://www.youtube.com/watch?v=3elGSZSWTbM)
 
 ### Övningar
 * [(MDN) Challenge: Fundamental layout comprehension](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Fundamental_Layout_Comprehension)
@@ -79,10 +80,7 @@ Behärska mer avancerade tekniker med CSS Grid
 ## 📅 Fredag
 
 ### Mål för dagen
-Fördjupa förståelsen av veckans begrepp genom att prata kod.
-
-### E‑Learning
-* [(YT - Kevin Powell) Flexbox or grid - How to decide?](https://www.youtube.com/watch?v=3elGSZSWTbM)
+Fördjupa förståelsen av veckans begrepp genom att prata kod. 
 
 ### Övningar
 * Code review - Receptsidan med meny, skip-link, startsida med olika receptkort i grid
