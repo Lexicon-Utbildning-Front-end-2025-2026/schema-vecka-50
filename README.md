@@ -44,7 +44,7 @@ Kunna använda Flexbox.
 ## 📅 Onsdag
 
 ### Mål för dagen
-Kunna använda CSS Grid.
+Kunna använda CSS Grid samt positionera saker inuti den på olika sätt.
 
 ### E‑Learning
 * [(YT - Kevin Powell) Get started with grid WITHOUT being overwhelmed](https://www.youtube.com/watch?v=8QSqwbSztnA)
