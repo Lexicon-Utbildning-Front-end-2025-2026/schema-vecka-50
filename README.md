@@ -34,7 +34,9 @@ Kunna använda Flexbox.
 * [(YT - Kevin Powell) Flexbox Alignment & Justification Without the Guesswork](https://www.youtube.com/watch?v=uIzaU98Ak1k)
 
 ### Slides
-* [(CSS Flexbox](https://zocom-my.sharepoint.com/:p:/g/personal/linus_ilbratt_zocom_se/IQDbYlOB9qSpTahjaOsQUexRAe1jKeh8n-viSj0PBtE_AjA?e=QjdZXZ)
+* [(CSS Flexbox)](https://zocom-my.sharepoint.com/:p:/g/personal/linus_ilbratt_zocom_se/IQDbYlOB9qSpTahjaOsQUexRAe1jKeh8n-viSj0PBtE_AjA?e=QjdZXZ)
+
+* [(CSS Grid)](https://zocom-my.sharepoint.com/:p:/g/personal/linus_ilbratt_zocom_se/IQBR6uBt-IXZRLRvpVZl6cKmAUbZRJEZS4bhZBvCLUp6X6s)
 
 ### Övningar
 * [(MDN) Test your skills: Flexbox](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Test_your_skills/Flexbox)
