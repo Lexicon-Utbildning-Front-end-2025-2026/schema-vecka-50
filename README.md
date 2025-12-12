@@ -89,6 +89,13 @@ Kunna använda CSS Grid samt positionera saker inuti den på olika sätt.
 ### Mål för dagen
 Fördjupa förståelsen av veckans begrepp genom att prata kod. 
 
+Frågor för Code Review:
+I grupp:
+Visa och förklara för de andra i gruppen hur du använt flex och grid i din kod. Motivera också varför du valt den ena framför den andra och om du i efterhand skulle gjort något annorlunda.
+ 
+Gemensamt:
+Vad är svårast med att förklara sin kod för andra och vad är svårast när man försöker förstå andras kod?
+
 ### Övningar
 * Code review - Receptsidan med meny, skip-link, startsida med olika receptkort i grid
 * Efter review - fixa i ordning din kod utifrån feedback och inspiration från de andra
