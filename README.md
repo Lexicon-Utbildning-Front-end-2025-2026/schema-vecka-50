@@ -90,6 +90,7 @@ Kunna använda CSS Grid samt positionera saker inuti den på olika sätt.
 Fördjupa förståelsen av veckans begrepp genom att prata kod. 
 
 Frågor för Code Review:
+
 I grupp:
 Visa och förklara för de andra i gruppen hur du använt flex och grid i din kod. Motivera också varför du valt den ena framför den andra och om du i efterhand skulle gjort något annorlunda.
  
